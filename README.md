@@ -14,6 +14,8 @@ In general, we are interested in [Meta-learning](https://en.wikipedia.org/wiki/M
 
 **Note: This is always subject to change. I used Claude to make one for now. PR's can deviate with justification.**
 
+Long term: 1) arc-agi / learning 2) OSWorld / computer-use 3) $ / time
+
 Day 1: Baseline & Environment Questions
 
 What is the current baseline performance of [chosen coding agent] on ARC-AGI tasks?
@@ -46,8 +48,6 @@ At what point does performance plateau in the self-improvement loop?
 What causes the plateau - is it a fundamental limit or a bug in the approach?
 How does performance scale when moving from 20 to 50+ problems?
 What failure modes emerge during extended self-improvement chains?
-
-Long term: OSWorld? Self-sustenance (in dollars)?
 
 ## Guidelines
 **Note: Also subject to change, though I wrote this myself.**
